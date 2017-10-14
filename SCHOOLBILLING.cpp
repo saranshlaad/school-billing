@@ -52,7 +52,7 @@ int main()
     printf("\t|**WELCOME TO C PROGRAM ON SCHOOL MANAGEMENT SYSTEM PROJECT|**\n");
     printf("\n\t|                                                      |\n");
     printf("\t ______________________________________________________\n");
-    printf("\t|    DEVELOPED BY CHIRAG GUPTA AND AMOGH DIXIT                       |\n");
+    printf("\t|    DEVELOPED BY CHIRAG GUPTA                     |\n");
     printf(" \t________________________________________________________\n");
     printf("\t|    *****************************************            |\n");
     printf("\t|    *****************************************            |\n");
